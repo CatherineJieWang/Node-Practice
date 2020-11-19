@@ -1,0 +1,26 @@
+{
+  "name": "Node-Practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CatherineJieWang/Node-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CatherineJieWang/Node-Practice/issues"
+  },
+  "homepage": "https://github.com/CatherineJieWang/Node-Practice#readme",
+  "dependencies": {
+    "eslint": "^7.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-route": "^3.2.0",
+    "koa-router": "^10.0.0"
+  }
+}
